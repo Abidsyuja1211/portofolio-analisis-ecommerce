@@ -41,15 +41,13 @@ GROUP BY Metode_Pembayaran_Bersih;
 ## 🤖 Tahap 3: Segmentasi Pasar Daerah (Python - Machine Learning)
 Terakhir, saya menggunakan model AI sederhana bernama **K-Means Clustering** untuk mengelompokkan kota-kota di Indonesia berdasarkan keaktifan belanjanya. 
 
-<img width="766" height="485" alt="grafik_clustering" src="https://github.com/user-attachments/assets/5d0aad47-2d3b-4340-a731-54aabec1492d" />
-
-
 AI berhasil membagi kota-kota tersebut menjadi 3 kelompok (*Cluster*):
 1.  **Cluster Merah (Pasar Pemula):** Transaksi masih sedikit dan perputaran uang kecil.
 2.  **Cluster Biru (Pasar Potensial):** Transaksi sedang dan stabil.
 3.  **Cluster Hijau (Pasar Raksasa):** Wilayah penyumbang uang terbesar (di atas 600 transaksi). 5 kota teratas di cluster ini adalah: **Kab. Tangerang, Kab. Bogor, Kota Tangerang, Kota Jakarta Barat,** dan **Kota Tangerang Selatan**.
 
----
+---<img width="766" height="485" alt="grafik_clustering" src="https://github.com/user-attachments/assets/dd79949e-40b8-4a77-a8f3-7a90fa4ff47b" />
+
 
 ## 💡 Apa yang Saya Pelajari dari Proyek Ini?
 Sebagai pemula, proyek ini membuka mata saya bahwa data di dunia nyata itu kotor dan berantakan. Tugas seorang Data Analyst bukan cuma membuat grafik yang bagus, tapi memastikan datanya bersih, mengolahnya dengan *logic* yang tepat, lalu menerjemahkannya menjadi rekomendasi yang berguna bagi bisnis.
