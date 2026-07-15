@@ -17,6 +17,7 @@ Melalui proyek ini, saya belajar bagaimana mencari masalah bisnis, membersihkan 
 Menggunakan **Pivot Table**, saya menyaring transaksi yang gagal/dibatalkan untuk mencari tahu apa penyebab utamanya:
 *   **Temuan:** Mayoritas pembatalan terjadi karena pembeli **berubah pikiran** atau ingin **mengubah pesanan/alamat mereka**. 
 *   **Insight:** Pembeli sering terburu-buru melakukan *checkout*. Fitur konfirmasi ulang sebelum bayar sangat dibutuhkan oleh aplikasi ini.
+<img width="497" height="310" alt="Grafik_Excel" src="https://github.com/user-attachments/assets/dcb2fd19-b73b-4b98-938d-d200254850fe" />
 
 ---
 
@@ -46,6 +47,8 @@ AI berhasil membagi kota-kota tersebut menjadi 3 kelompok (*Cluster*):
 1.  **Cluster Merah (Pasar Pemula):** Transaksi masih sedikit dan perputaran uang kecil.
 2.  **Cluster Biru (Pasar Potensial):** Transaksi sedang dan stabil.
 3.  **Cluster Hijau (Pasar Raksasa):** Wilayah penyumbang uang terbesar (di atas 600 transaksi). 5 kota teratas di cluster ini adalah: **Kab. Tangerang, Kab. Bogor, Kota Tangerang, Kota Jakarta Barat,** dan **Kota Tangerang Selatan**.
+
+<img width="766" height="485" alt="grafik_clustering" src="https://github.com/user-attachments/assets/c51cf1c7-434c-4296-8ef5-21f586044d0e" />
 
 ---
 
