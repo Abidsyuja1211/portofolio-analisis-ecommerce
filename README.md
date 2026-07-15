@@ -17,7 +17,6 @@ Melalui proyek ini, saya belajar bagaimana mencari masalah bisnis, membersihkan 
 Menggunakan **Pivot Table**, saya menyaring transaksi yang gagal/dibatalkan untuk mencari tahu apa penyebab utamanya:
 *   **Temuan:** Mayoritas pembatalan terjadi karena pembeli **berubah pikiran** atau ingin **mengubah pesanan/alamat mereka**. 
 *   **Insight:** Pembeli sering terburu-buru melakukan *checkout*. Fitur konfirmasi ulang sebelum bayar sangat dibutuhkan oleh aplikasi ini.
-<img width="497" height="310" alt="Grafik_Excel" src="https://github.com/user-attachments/assets/dcb2fd19-b73b-4b98-938d-d200254850fe" />
 
 ---
 
