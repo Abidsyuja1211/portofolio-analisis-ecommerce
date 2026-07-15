@@ -18,6 +18,8 @@ Menggunakan **Pivot Table**, saya menyaring transaksi yang gagal/dibatalkan untu
 *   **Temuan:** Mayoritas pembatalan terjadi karena pembeli **berubah pikiran** atau ingin **mengubah pesanan/alamat mereka**. 
 *   **Insight:** Pembeli sering terburu-buru melakukan *checkout*. Fitur konfirmasi ulang sebelum bayar sangat dibutuhkan oleh aplikasi ini.
 
+<img width="497" height="310" alt="Grafik_Excel" src="https://github.com/user-attachments/assets/00147fb5-98cc-4d22-ac02-9280f463204a" />
+
 ---
 
 ## 🧹 Tahap 2: Merapikan Data Metode Pembayaran (SQL)
@@ -40,11 +42,7 @@ GROUP BY Metode_Pembayaran_Bersih;
 ## 🤖 Tahap 3: Segmentasi Pasar Daerah (Python - Machine Learning)
 Terakhir, saya menggunakan model AI sederhana bernama **K-Means Clustering** untuk mengelompokkan kota-kota di Indonesia berdasarkan keaktifan belanjanya. 
 
-<img width="766" height="485" alt="grafik_clustering" src="https://github.com/user-attachments/assets/f38c43ae-aecb-47b6-9f26-1aa442872230" />
-
-
-
-
+<img width="766" height="485" alt="grafik_clustering" src="https://github.com/user-attachments/assets/c33f4245-b151-49a6-9d00-6a70061670a1" />
 
 AI berhasil membagi kota-kota tersebut menjadi 3 kelompok (*Cluster*):
 1.  **Cluster Merah (Pasar Pemula):** Transaksi masih sedikit dan perputaran uang kecil.
