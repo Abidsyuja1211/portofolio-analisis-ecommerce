@@ -41,7 +41,7 @@ GROUP BY Metode_Pembayaran_Bersih;
 ## 🤖 Tahap 3: Segmentasi Pasar Daerah (Python - Machine Learning)
 Terakhir, saya menggunakan model AI sederhana bernama **K-Means Clustering** untuk mengelompokkan kota-kota di Indonesia berdasarkan keaktifan belanjanya. 
 
-<img width="766" height="485" alt="grafik_clustering" src="https://github.com/user-attachments/assets/5d0aad47-2d3b-4340-a731-54aabec1492d" />
+<img width="766" height="485" alt="grafik_clustering" src="https://github.com/user-attachments/assets/5d0aad47-2d3b-4340-a731-54aabec1492d />
 
 
 AI berhasil membagi kota-kota tersebut menjadi 3 kelompok (*Cluster*):
